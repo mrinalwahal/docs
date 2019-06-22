@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Initial page](README.md)
+* [FAQ](untitled.md)
 
 ## Company
 

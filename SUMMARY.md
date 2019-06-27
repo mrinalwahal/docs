@@ -10,7 +10,10 @@
 
 ## API
 
-* [Untitled](api/untitled.md)
+* [Authentication](api/authentication.md)
+* [Users](api/users.md)
+* [Projects](api/projects.md)
+* [Miscellaneous](api/miscellaneous.md)
 
 ## Company
 

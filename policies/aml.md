@@ -10,11 +10,9 @@ description: This policy is by default applicable to all of Oversight's users.
 
  2. To ensure that we are not involved in any transactions that are known or suspected to be means of laundering money if any suspicious activity is noticed, users of the Oversight platform are urged to promptly contact government authorities to facilitate any action that may be needed.
 
- 3. This money laundering policy applies to all persons using and accessing Oversight’s platform. This includes all donors, contributors, projecters, and persons visiting our platform. All these persons are collectively referred to as “**Users**” or “**users**”.
+ 3. This money laundering policy applies to all persons using and accessing Oversight’s platform. This includes all donors, contributors, project owners, and persons visiting our platform. All these persons are collectively referred to as “**Users**” or “**users**”.
 
-##  **II. WHAT CONSTITUTES MONEY LAUNDERING AND SUSPICIOUS**
-
- **TRANSACTIONS**
+##  **II. WHAT CONSTITUTES MONEY LAUNDERING AND SUSPICIOUS** **TRANSACTIONS**
 
  1. “Money laundering” is largely understood to mean any act or attempt \(directly or indirectly and even by association in one step of a series of transactions\) to conceal or disguise the origin and ownership of proceeds obtained illegally, such that it appears to have originated from legitimate sources; thus avoiding prosecution, conviction and confiscation of such proceeds. Terrorist organisations, tax evaders, smugglers, persons involved in bribery or any persons that receive money for illegal activities and/or through illegal means may launder money.
 

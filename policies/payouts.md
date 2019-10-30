@@ -1,10 +1,10 @@
 ---
-description: We follow All-In-Or-Nothing Model.
+description: We follow All-Or-Nothing Model.
 ---
 
 # Payouts
 
-Oversight shall automatically disburse your funds once the total donations/sponsorship received on your project have hit your specified target. This is referred as All-In-Or-Nothing model i.e. no intermediate payouts are issues before you hit your funding target for a specific project.
+Oversight shall automatically disburse your funds once the total donations/sponsorship received on your project have hit your specified target. This is referred as All-Or-Nothing model i.e. no intermediate payouts are issues before you hit your funding target for a specific project.
 
 You shall automatically receive a congratulatory email from Oversight within 48 hours of you hitting your funding target, on a per project basis. This email shall mark that we have acknowledged your target is complete and have initiated the disbursement of your funds.
 

@@ -13,6 +13,7 @@
 ## Policies
 
 * [Payouts](policies/payouts.md)
+* [Anti-Money Laundering](policies/aml.md)
 * [Terms & Conditions](policies/terms.md)
 * [Privacy](policies/privacy.md)
 

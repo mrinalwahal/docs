@@ -2,7 +2,6 @@
 
 * [Origins of Oversight](README.md)
 * [FAQ](untitled.md)
-* [Changelog](changelog.md)
 
 ## Security
 

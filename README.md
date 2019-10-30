@@ -1,68 +1,16 @@
-# Intro to Docs
+---
+description: >-
+  Oversight came into existence out of rather frustration with the present
+  academic systems worldwide.
+---
 
-{% api-method method="get" host="https://api.cakes.com" path="/v1/cakes/:id" %}
-{% api-method-summary %}
-Get Cakes
-{% endapi-method-summary %}
+# Origins of Oversight
 
-{% api-method-description %}
-This endpoint allows you to get free cakes.
-{% endapi-method-description %}
+ The aim of the founders was to primarily enable democratic, free and fair access to particular resources required to facilitate high quality next-generation research in any domain, even if it hasn't been discovered yet, to students and other aspiring researchers which were rather restricted, hidden or curtained by the existing academic or governmental systems.
 
-{% api-method-spec %}
-{% api-method-request %}
-{% api-method-path-parameters %}
-{% api-method-parameter name="id" type="string" %}
-ID of the cake to get, for free of course.
-{% endapi-method-parameter %}
-{% endapi-method-path-parameters %}
+Therefore, the first solution Oversight decided to bring to the market is a crowdfunding platform carefully choreographed to raise funds to aid the development of interesting and under-represented research by students, scientists and other academic professionals worldwide.
 
-{% api-method-headers %}
-{% api-method-parameter name="Authentication" type="string" required=true %}
-Authentication token to track down who is emptying our stocks.
-{% endapi-method-parameter %}
-{% endapi-method-headers %}
+Provided that all the primary founding members of the company are originally trained in engineering, most of the initial products of the company make seem to contain flavours features aiming to facilitate the ease of use of the platform by the programming/developing community.
 
-{% api-method-query-parameters %}
-{% api-method-parameter name="recipe" type="string" %}
-The API will do its best to find a cake matching the provided recipe.
-{% endapi-method-parameter %}
-
-{% api-method-parameter name="gluten" type="boolean" %}
-Whether the cake should be gluten-free or not.
-{% endapi-method-parameter %}
-{% endapi-method-query-parameters %}
-{% endapi-method-request %}
-
-{% api-method-response %}
-{% api-method-response-example httpCode=200 %}
-{% api-method-response-example-description %}
-Cake successfully retrieved.
-{% endapi-method-response-example-description %}
-
-```javascript
-{
-    "name": "Cake's name",
-    "recipe": "Cake's recipe name",
-    "cake": "Binary cake"
-}
-```
-{% endapi-method-response-example %}
-
-{% api-method-response-example httpCode=404 %}
-{% api-method-response-example-description %}
-Could not find a cake matching this query.
-{% endapi-method-response-example-description %}
-
-```javascript
-{
-    "message": "Ain't no cake like that."
-}
-```
-{% endapi-method-response-example %}
-{% endapi-method-response %}
-{% endapi-method-spec %}
-{% endapi-method %}
-
-
+Oversight also works on a number of open source projects in the fields of Deep Learning, Quantum computations, Genetic Computations, et cetera. The way to join these projects is to simply stay updated on Oversight's [GitLab](https://gitlab.com/oversight) handle.
 

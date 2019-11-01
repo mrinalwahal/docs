@@ -15,4 +15,5 @@
 * [Anti-Money Laundering](policies/aml.md)
 * [Terms & Conditions](policies/terms.md)
 * [Privacy](policies/privacy.md)
+* [Dark Only](policies/dark-only.md)
 

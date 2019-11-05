@@ -6,7 +6,7 @@ description: >-
 
 # Origins of Oversight
 
- The aim of the founders was to primarily enable democratic, free and fair access to particular resources required to facilitate high quality next-generation research in any domain, even if it hasn't been discovered yet, to students and other aspiring researchers which were rather restricted, hidden or curtained by the existing academic or governmental systems.
+The aim of the founders was to primarily enable democratic, free and fair access to particular resources required to facilitate high quality next-generation research in any domain, even if it hasn't been discovered yet, to students and other aspiring researchers which were rather restricted, hidden or curtained by the existing academic or governmental systems.
 
 Therefore, the first solution Oversight decided to bring to the market is a crowdfunding platform carefully choreographed to raise funds to aid the development of interesting and under-represented research by students, scientists and other academic professionals worldwide.
 

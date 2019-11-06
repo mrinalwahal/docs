@@ -6,6 +6,10 @@ description: >-
 
 # Origins of Oversight
 
+Hitherto unheard of, Oversight, is a premier network doctored exclusively to connect distinguished and dedicated researchers in respective fields to the upcoming demiurgic researchers. If you are looking for ideas to be proposed, debated, discussed and taken forward for real time implementation, then, Oversight is the most innovative place you can be in. 
+
+Oversight recognizes the existing stagnancy, biases, ignorant attitudes and lackadaisical operations in the Indian research paradigm guilty of knavery, and therefore, reasons its spawning as to eradicate the same and provide a convenient yet revolutionary platform to connect, ideate, research upon the ideated and change the world into something better every dawn.
+
 The aim of the founders was to primarily enable democratic, free and fair access to particular resources required to facilitate high quality next-generation research in any domain, even if it hasn't been discovered yet, to students and other aspiring researchers which were rather restricted, hidden or curtained by the existing academic or governmental systems.
 
 Therefore, the first solution Oversight decided to bring to the market is a crowdfunding platform carefully choreographed to raise funds to aid the development of interesting and under-represented research by students, scientists and other academic professionals worldwide.

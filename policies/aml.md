@@ -100,19 +100,3 @@ description: This policy is by default applicable to all of Oversight's users.
 
  Should have any queries or require any assistance in relation to this policy, please write to us at [mrinal.oversight@gmail.com.](mailto:info@ketto.org) of its users\) is true and accurate and the users represent the same to Oversight by virtue of using the services of Oversight.
 
-##  **X. AMENDMENT**
-
- Oversight reserves the right to modify and amend this AML Policy at any time. Oversight will not be liable to any users or third parties for any modification or amendment. Users are recommended to review the AML Policy from time to time, for the most up-to-date version. In the event of modification or amendment to the AML Policy, continued use of the Oversight platform, after notice of material changes, will constitute acceptance of the modified or amended terms. If the modifications or amendments to the AML Policy are not acceptable by any registered users, the only remedy would be to cease usage of the Oversight platform, by deleting the relevant account or writing to us at [mrinal.oversight@gmail.com](mailto:info@ketto.org) .
-
-##  **XI. GOVERNING LAW**
-
- Any dispute or claim relating in any way to this AML Policy is subject to the exclusive jurisdiction of the courts in New Delhi. Laws prevailing in India, without regard to principles of conflict of laws, will govern this AML Policy and any dispute related to/arising from this AML Policy, between Oversight and the concerned user.
-
-##  **XII. SURVIVAL**
-
- This AML Policy will survive the termination of Oversight’s relationship with the concerned user.
-
-##  **XIII. QUERIES**
-
- Should have any queries or require any assistance in relation to this policy, please write to us at [m](mailto:info@ketto.org)rinal.oversight@gmail.com .
-

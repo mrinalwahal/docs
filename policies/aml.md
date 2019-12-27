@@ -98,5 +98,5 @@ description: This policy is by default applicable to all of Oversight's users.
 
 ##  **XIII. QUERIES**
 
- Should have any queries or require any assistance in relation to this policy, please write to us at [mrinal.oversight@gmail.com.](mailto:info@ketto.org) of its users\) is true and accurate and the users represent the same to Oversight by virtue of using the services of Oversight.
+ Should have any queries or require any assistance in relation to this policy, please write to us at [mrinal.oversight@gmail.com.](mailto:info@ketto.org)
 

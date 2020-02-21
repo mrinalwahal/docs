@@ -5,8 +5,8 @@
 
 ## Security
 
-* [Authentication](security/auth.md)
 * [Data Withholding & Security](security/privacy.md)
+* [Authentication](security/auth.md)
 * [Know Your Customer \(KYC\)](security/kyc.md)
 * [Sponsorships](security/sponsorships.md)
 

@@ -12,6 +12,12 @@ In your account settings, there's a section reserved for **funding account.** We
 
 To know which type of bank account is preferable, read the [payouts policy](https://docs.oversight.in/policies/payouts).
 
+## I've reached the target. How long until I receive my funds?
+
+Congratulations on hitting your target! We'll initiate your disbursement within 48 hours of touching your targets. Just make sure you have updated the latest details of your funding account in your account settings. If you haven't added your funding account until now, do add it immediately, since we'll be releasing the funds in that account. In case, you haven't added any account yet, we won't be able to disburse the money. 
+
+Read the [payouts policy](https://docs.oversight.in/policies/payouts) for more details.
+
 ## Why can't I simply use a password to login?
 
 In order to provide improved security, Oversight employs TOTP based authentication. Post registration of a new account, you will have to scan the issued barcode/QR-Code in your respective authenticator mobile apps \(recommended: Google Authenticator\). Once the barcode is scanned, the authenticator app will start generating OTP refreshed in every 30 seconds, You can use these OTP codes at any time instead of passwords during your login.

@@ -12,6 +12,8 @@ How long it takes for funds to be deposited in your account also depends on your
 
 _Disclaimer: Oversight only supports sponsorship for projects published by **Indian residents**, therefore, if you have mistakenly been allowed to raise funds for your project despite not being an Indian resident/citizen \(unless Oversight has issued announcements for international operations\), Oversight is not responsible for disbursing your funds, since it goes against our policies. **You have been warned.**_
 
+## Preferred Account
+
 Your bank account will be the preferred option for initiating payouts to, since VPA \(UPI\) accounts have an upper limit on transactions as per governmental regulations. However, if the total payout falls within the permitted transaction limit specified by the Government of India, or Reserve Bank of India \(RBI\), then VPA account shall be preferred for the payout.
 
 Therefore, it is advised to have your bank account attached as the funding account on your Oversight profile, to make things easier and safer. 

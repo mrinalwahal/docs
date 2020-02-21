@@ -22,9 +22,8 @@ Our micro-services carefully run the verification/assertion checks on the follow
 1. Full Name
 2. Email
 3. Phone Number
-4. Date of Birth
-5. Last 4 Digits of the Aadhaar Card Number
-6. Signature inside the XML is verified from UIDAI's publicly available certificate file to ensure the XML was signed by UIDAI's certificate only.
+4. Last 4 Digits of the Aadhaar Card Number
+5. Signature inside the XML is verified from UIDAI's publicly available certificate file to ensure the XML was signed by UIDAI's certificate only.
 
 All aforementioned data is verified as per algorithms/methods provided by UIDAI on their [website](https://uidai.gov.in/ecosystem/authentication-devices-documents/about-aadhaar-paperless-offline-e-kyc.html).
 

@@ -1,12 +1,12 @@
 # Table of contents
 
 * [Origins of Oversight](README.md)
-* [FAQ](untitled.md)
+* [FAQ](faq.md)
 
 ## Security
 
 * [Authentication](security/auth.md)
-* [Data Withholding](security/privacy.md)
+* [Data Withholding & Security](security/privacy.md)
 * [Know Your Customer \(KYC\)](security/kyc.md)
 * [Sponsorships](security/sponsorships.md)
 

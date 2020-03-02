@@ -16,11 +16,25 @@ To know which type of bank account is preferable, read the [payouts policy](http
 
 Congratulations on hitting your target! We'll initiate your disbursement within 48 hours of touching your targets. Just make sure you have updated the latest details of your funding account in your account settings. If you haven't added your funding account until now, do add it immediately, since we'll be releasing the funds in that account. In case, you haven't added any account yet, we won't be able to disburse the money. 
 
-Read the [payouts policy](https://docs.oversight.in/policies/payouts) for more details.
+Read the payouts policy for more details.
+
+{% page-ref page="policies/payouts.md" %}
 
 ## Why can't I simply use a password to login?
 
 In order to provide improved security, Oversight employs TOTP based authentication. Post registration of a new account, you will have to scan the issued barcode/QR-Code in your respective authenticator mobile apps \(recommended: Google Authenticator\). Once the barcode is scanned, the authenticator app will start generating OTP refreshed in every 30 seconds, You can use these OTP codes at any time instead of passwords during your login.
 
-Read more in our [auth documentation.](https://docs.oversight.in/security/auth)
+Read more in our auth documentation.
+
+{% page-ref page="security/auth.md" %}
+
+## **What if I missed my deadline?**
+
+Oversight reserves the right to absorb your funds and NOT trigger any disbursements at all if you couldn't complete the target within the specified timeline.
+
+**In short, you won't get any portion of your raised money if you couldn't complete the target within allowed deadline.**
+
+Read more about disbursements in our payouts policy.
+
+{% page-ref page="policies/payouts.md" %}
 

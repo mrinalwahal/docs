@@ -8,7 +8,7 @@
 * [Data Withholding & Security](security/privacy.md)
 * [Authentication](security/auth.md)
 * [Know Your Customer \(KYC\)](security/kyc.md)
-* [Sponsorships](security/sponsorships.md)
+* [Payments](security/payments.md)
 
 ## Policies
 
@@ -16,5 +16,9 @@
 * [Anti-Money Laundering](policies/aml.md)
 * [Terms & Conditions](policies/terms.md)
 * [Privacy](policies/privacy.md)
-* [Dark Only](policies/dark-only.md)
+
+## Resources
+
+* [Best Practices](resources/best-practices.md)
+* [Project Licenses](resources/project-licenses.md)
 

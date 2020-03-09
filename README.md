@@ -6,6 +6,10 @@ description: >-
 
 # Origins of Oversight
 
+{% hint style="info" %}
+Throughout the site, the terms “we”, “us”, “our” and "Oversight" refer to Oversight Dynamics Pvt. Ltd.
+{% endhint %}
+
 Hitherto unheard of, Oversight, is a premier network doctored exclusively to connect distinguished and dedicated researchers in respective fields to the upcoming demiurgic researchers. If you are looking for ideas to be proposed, debated, discussed and taken forward for real time implementation, then, Oversight is the most innovative place you can be in. 
 
 Oversight recognizes the existing stagnancy, biases, ignorant attitudes and lackadaisical operations in the Indian research paradigm guilty of knavery, and therefore, reasons its spawning as to eradicate the same and provide a convenient yet revolutionary platform to connect, ideate, research upon the ideated and change the world into something better every dawn.

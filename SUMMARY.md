@@ -21,6 +21,7 @@
 
 * [Best Practices](resources/best-practices.md)
 * [Project Licenses](resources/project-licenses.md)
+* [Proposals](resources/proposals.md)
 
 ## Tools
 

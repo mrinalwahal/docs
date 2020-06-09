@@ -4,9 +4,9 @@ description: This Privacy Policy applies to the Oversight.in
 
 # Privacy
 
-Oversight.in recognises the importance of maintaining your privacy. We value your privacy and appreciate your trust in us. This Policy describes how we treat user information we collect on [http://Oversight.in](http://oversight.in) and other offline sources. This Privacy Policy applies to current and former visitors to our website and to our online customers. By visiting and/or using our website, you agree to this Privacy Policy.
+Oversight.in recognises the importance of maintaining your privacy. We value your privacy and appreciate your trust in us. This Policy describes how we treat user information we collect on [https://oversight.in](http://oversight.in) and other offline sources. This Privacy Policy applies to current and former visitors to our website and to our online customers. By visiting and/or using our website, you agree to this Privacy Policy.
 
-Oversight.in is a property of Oversight, an Indian Company registered under the Companies Act, 2013 having its registered office at _H.no-704, Gali.no-23, Mohona Road, Ballabgarh, Faridabad, Haryana, India_.
+Oversight.in is a property of Oversight Dynamics Pvt Ltd, an Indian Company registered under the Companies Act, 2013 having its registered office at _2005, Yucca, Paramount Symphony, Crossing Republik, NH-24, Ghaziabad, UP, India_.
 
 **Information we collect**
 
@@ -73,19 +73,19 @@ If you click on one of the links to third party websites, you may be taken to we
 
 In accordance with Information Technology Act 2000 and rules made there under, the name and contact details of the Grievance Officer are provided below:
 
-Mr. Hemant Vats
+Mr. Mrinal Wahal
 
-H.no-704, Gali.no-23, Mohona Road, Ballabgarh, Faridabad, Haryana, India
+2005, Yucca, Paramount Symphony, Crossing Republik, NH-24, Ghaziabad, UP, India.
 
-Phone: +91-11- 45757575
+Phone: +91-9560892906
 
-Email: Hemant02.vats@gmail.com
+Email: MrinalWahal@gmail.com
 
-If you have any questions about this Policy or other privacy concerns, you can also email us at Hemant02.vats@gmail.com
+If you have any questions about this Policy or other privacy concerns, you can also email us at MrinalWahal@gmail.com
 
 **Updates to this policy**
 
-This Privacy Policy was last updated on 30.10.2018. From time to time we may change our privacy practices. We will notify you of any material changes to this policy as required by law. We will also post an updated copy on our website. Please check our site periodically for updates.
+This Privacy Policy was last updated on 08.06.2020. From time to time we may change our privacy practices. We will notify you of any material changes to this policy as required by law. We will also post an updated copy on our website. Please check our site periodically for updates.
 
 **Jurisdiction**
 

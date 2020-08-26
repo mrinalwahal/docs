@@ -6,7 +6,6 @@
 ## Security
 
 * [Data Withholding & Security](security/privacy.md)
-* [Authentication](security/auth.md)
 * [Know Your Customer \(KYC\)](security/kyc.md)
 * [Payments](security/payments.md)
 
@@ -14,6 +13,7 @@
 
 * [Payouts](policies/payouts.md)
 * [Anti-Money Laundering](policies/aml.md)
+* [Pricing](policies/pricing.md)
 * [Terms & Conditions](policies/terms.md)
 * [Privacy](policies/privacy.md)
 
@@ -22,8 +22,5 @@
 * [Best Practices](resources/best-practices.md)
 * [Project Licenses](resources/project-licenses.md)
 * [Proposals](resources/proposals.md)
-
-## Tools
-
-* [Research - Command Line](https://gitlab.com/oversight/cli/-/wikis/home)
+* [Credits](resources/credits.md)
 

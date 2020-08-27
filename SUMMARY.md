@@ -20,6 +20,7 @@
 ## Resources
 
 * [Best Practices](resources/best-practices.md)
+* [Importance Tagging](resources/tags.md)
 * [Project Licenses](resources/project-licenses.md)
 * [Proposals](resources/proposals.md)
 * [Credits](resources/credits.md)

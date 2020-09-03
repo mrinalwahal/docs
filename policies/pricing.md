@@ -8,7 +8,7 @@ description: >-
 
 ## Crowdfunding on Projects
 
-Oversight will charge **7% as platform fees** \(+ GST as applicable\) from the author \(user\) of the project upon successully raising sufficient funds required to hit their set funding target. This fees will automatically be deducted from the final payout all funds, raised on that project, scheduled for disbursement. In order to understand how and when to schedule payouts, please read the payouts documentation.
+Oversight will charge **7% as platform fees** \(+ GST as applicable\) from the author \(user\) of the project upon successfully raising sufficient funds required to hit their set funding target. This fees will automatically be deducted from the final payout all funds, raised on that project, scheduled for disbursement. In order to understand how and when to schedule payouts, please read the payouts documentation.
 
 {% page-ref page="payouts.md" %}
 

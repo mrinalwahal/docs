@@ -24,4 +24,9 @@
 * [Project Licenses](resources/project-licenses.md)
 * [Proposals](resources/proposals.md)
 * [Credits](resources/credits.md)
+* [Raising Funds](resources/raising-funds.md)
+
+---
+
+* [Demo Project](https://oversight.in/wahal/demonstrating-an-extremely-important-research-proj)
 

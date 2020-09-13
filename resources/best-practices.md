@@ -6,6 +6,14 @@ description: >-
 
 # Best Practices
 
+
+
+{% hint style="info" %}
+These are best-practices for publishing a project. If you are looking for the best-practices guide for writing a collaboration proposal, use the link below.
+{% endhint %}
+
+{% page-ref page="proposals.md" %}
+
 ## Title
 
 Make sure to choose a catchy yet professional title. Avoid unnecessary words. Remember to not put flairs and disclaimers to keep the title clean and sophisticated. There are no correct or incorrect titles. There are only good and bad titles.

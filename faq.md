@@ -32,3 +32,9 @@ Read more about disbursements in our payouts policy.
 
 {% page-ref page="policies/payouts.md" %}
 
+## How can I ensure my donations are being used responsibly by the authors?
+
+Users have the option of publishing regular progress reports on their projects clearly stating how far have they come in their projects and how much progress they have made. You can read these reports for by navigating to **reports** section in the sidebar that shows on every project page. Frequency of publishing these reports is solely depended on the user. 
+
+Some users also attach external links containing their project's latest data or images in the **repository** field of their projects, which can be accessed by clicking on the **data-repository button** on project's main content page.
+

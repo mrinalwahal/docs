@@ -4,6 +4,12 @@ description: This policy is by default applicable to all of Oversight's users.
 
 # Anti-Money Laundering
 
+{% hint style="info" %}
+If a user raises funds on our platform, and instead of professionaly and responsibly using the funds, employed the funds for any un-ethical/immoral/illegal practices, it stands as a case of money laundering. In order to prevent such misuse of our platform, and in complete compliance with national laws, we mandatorily conduct users' KYC and ensure as well as we can that users only register with details that match their govt. ID cards, mostly just their Aadhaar card.
+
+For the same purpose, we've prepared this Anti-Money Laundering policy and it stands by default applicable to all our users and their respective data published on the platform.
+{% endhint %}
+
 ## I**. SCOPE AND APPLICABILITY**
 
  1. Oversight is committed to ensuring that it maintains ethical business practices, complies with applicable law and its crowdfunding platform is not used for funding illegal activities. To achieve this objective we have prepared this Anti-Money Laundering Policy \(“**AML Policy**”\) and request you to carefully read and follow the policy. This policy is in addition to your obligations under applicable laws on the prevention of money laundering and does not detract in any manner from those obligations. We urge you to be aware of your obligations under such applicable laws. Oversight’s ability to comply with its obligations under applicable law is dependent on your cooperation and we seek your cooperation via this policy.

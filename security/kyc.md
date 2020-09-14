@@ -17,7 +17,7 @@ We use Govt. of India's DigiLocker platform for E-KYC using Aadhaar. We DigiLock
 
 ## Manual KYC
 
-Users have to manually enter their full-name, email, phone, last 4 digits of Aadhaar, a scanned image of the Aadhaar and a selfie holding a piece of paper with the last 4 digits of Aadhaar clearly written over it. Our team members will just validate the aforementioned details entered by the user with that mentioned on the Aadhaar, and clear the KYC if there's no problem. This process can take upto 48-72 hours.
+Users have to manually enter their full-name, email, phone, last 4 digits of Aadhaar, a scanned image of the Aadhaar and a selfie holding their Aadhaar card. Our team members will just validate the aforementioned details entered by the user with that mentioned on the Aadhaar, and clear the KYC if there's no problem. This process can take upto 48-72 hours.
 
 ## Data we verify
 

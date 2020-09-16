@@ -10,6 +10,10 @@ If a user raises funds on our platform, and instead of professionaly and respons
 For the same purpose, we've prepared this Anti-Money Laundering policy and it stands by default applicable to all our users and their respective data published on the platform.
 {% endhint %}
 
+{% hint style="info" %}
+Throughout the site and throught this anti-money laundering policy, the terms “we”, “us”, “our” and "Oversight" refer to Oversight Dynamics Pvt. Ltd.
+{% endhint %}
+
 ## I**. SCOPE AND APPLICABILITY**
 
  1. Oversight is committed to ensuring that it maintains ethical business practices, complies with applicable law and its crowdfunding platform is not used for funding illegal activities. To achieve this objective we have prepared this Anti-Money Laundering Policy \(“**AML Policy**”\) and request you to carefully read and follow the policy. This policy is in addition to your obligations under applicable laws on the prevention of money laundering and does not detract in any manner from those obligations. We urge you to be aware of your obligations under such applicable laws. Oversight’s ability to comply with its obligations under applicable law is dependent on your cooperation and we seek your cooperation via this policy.
@@ -92,7 +96,7 @@ For the same purpose, we've prepared this Anti-Money Laundering policy and it st
 
 ##  **X. AMENDMENT**
 
- Oversight reserves the right to modify and amend this AML Policy at any time. Oversight will not be liable to any users or third parties for any modification or amendment. Users are recommended to review the AML Policy from time to time, for the most up-to-date version. In the event of modification or amendment to the AML Policy, continued use of the Oversight platform, after notice of material changes, will constitute acceptance of the modified or amended terms. If the modifications or amendments to the AML Policy are not acceptable by any registered users, the only remedy would be to cease usage of the Oversight platform, by deleting the relevant account or writing to us at [mrinal.oversight@gmail.com](mailto:info@ketto.org) .
+ Oversight reserves the right to modify and amend this AML Policy at any time. Oversight will not be liable to any users or third parties for any modification or amendment. Users are recommended to review the AML Policy from time to time, for the most up-to-date version. In the event of modification or amendment to the AML Policy, continued use of the Oversight platform, after notice of material changes, will constitute acceptance of the modified or amended terms. If the modifications or amendments to the AML Policy are not acceptable by any registered users, the only remedy would be to cease usage of the Oversight platform, by deleting the relevant account or writing to us at [mrinal.oversight@gmail.com](mailto:mrinal.oversight@gmail.com) .
 
 ##  **XI. GOVERNING LAW**
 
@@ -104,5 +108,5 @@ For the same purpose, we've prepared this Anti-Money Laundering policy and it st
 
 ##  **XIII. QUERIES**
 
- Should have any queries or require any assistance in relation to this policy, please write to us at [mrinal.oversight@gmail.com.](mailto:info@ketto.org)
+ Should have any queries or require any assistance in relation to this policy, please write to us at mrinal.oversight@gmail.com.
 

@@ -6,7 +6,7 @@ description: >-
 
 # Payouts
 
-## Deadlines
+## Deadlines For Projects
 
 Maximum 6 months, from the date of publishing of the project, is the default deadline of every project for every Rs. 1,00,000 compartment of total target.
 
@@ -23,7 +23,7 @@ Since, deadlines are decided upon compartments rounded of to Rs. 1,00,000, **dea
 2. You won't get any portion of your raised money if you missed your given deadline.
 {% endhint %}
 
-## Disbursement
+## Payout Disbursement For Projects
 
 Once you have finally **hit your funding target and provided that the project has not crossed its funding deadline**, you will get the option of withdrawing your funds from the same project page. Clicking on that option/button will generate a unique payout link, which will open up in the current browser, and will also be sent to your registered mobile and email.
 
@@ -48,6 +48,18 @@ How long it takes for funds to be deposited in your account also depends on your
 ## Preferred Account
 
 Your bank account will be the preferred option for initiating payouts to, since VPA \(UPI\) accounts have an upper limit on transactions as per governmental regulations. However, if the total payout falls within the permitted transaction limit specified by the Government of India, or Reserve Bank of India \(RBI\), then VPA account should not cause any problems.
+
+## Payout Disbursement For Empowerments <a id="empowerments"></a>
+
+Total payout equal to the complete sum of all subscriptions amount charged for a particular month's cycle are disbursed at the end of the month, after deducting the aforementioned fees.
+
+{% hint style="warning" %}
+In order for empowerments to work, your Funding Account \(UPI\) must be updated in your account settings, otherwise we will not be able to disburse your collected funds into your account.
+{% endhint %}
+
+{% hint style="danger" %}
+Oversight is also not responsible for any incorrect UPI account details saved by the any user. If you \(or any user\) saved incorrect UPI details and all the user's funds got disbursed into that account, Oversight cannot be held liable and would also not be responsible for recovering the funds. Therefore, please be very careful while saving your UPI details in your account settings.
+{% endhint %}
 
 ## Halting Disbursements
 

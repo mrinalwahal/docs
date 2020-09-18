@@ -24,7 +24,7 @@ Each credit is currently charged at **INR \(Rs.\) 20** \(+ GST as applicable\). 
 
 {% page-ref page="../resources/credits.md" %}
 
-## Subscription Based Automated Donations
+## Global Subscription Based Automated Donations
 
 Oversight provides regular subscription-based donations for those who are just looking to fund some high quality scientific/academic research but do not want to go through the trouble of browsing all projects every time they want to sponsor/donate. And we donate these funds to a carefully handpicked project by our own team and send the receipt of the donation along with project details to the donor/subscriber. To choose a subscription plan please [click here](https://oversyt.now.sh/#subscribe). 
 
@@ -33,4 +33,10 @@ Platform fees for such subscriptions are **30% of the total donation amount** \(
 {% hint style="warning" %}
 We take mathematical floor values on all amounts including platform fees and taxes, for easy calculations on our end.
 {% endhint %}
+
+## Empowerments
+
+Fees for **empowerment donations through monthly subscriptions** for every user who has equal to, or more than, 1 active subscription on their account, is currently fixed at **25% of the total donation amount** \(+ GST as applicable\) for that donation cycle.
+
+Total payout equal to the complete sum of all subscriptions amount charged for a particular month's cycle are disbursed at the end of the month, after deducting the aforementioned fees.
 

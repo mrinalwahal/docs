@@ -6,6 +6,8 @@ description: >-
 
 # Origins of Oversight
 
+Oversight aims to create ripples in civilisational consciousness.
+
 {% hint style="info" %}
 Throughout the site, the terms “we”, “us”, “our” and "Oversight" refer to Oversight Dynamics Pvt. Ltd.
 {% endhint %}

@@ -6,7 +6,7 @@ description: Frequently Asked Questions
 
 ## When will I get my money?
 
-Once you have finally **hit your funding target and provided that the project has not crossed its funding deadline**, you will get the option of withdrawing your funds from the same project page. Clicking on that option/button will generate a unique payout link, which will open up in the current browser, and will also be sent to your registered mobile and email.
+Once you have finally **hit your funding target OR the project has crossed its funding deadline**, you will get the option of withdrawing your funds from the same project page. Clicking on that option/button will generate a unique payout link, which will open up in the current browser, and will also be sent to your registered mobile and email.
 
 In that link, you can add your bank account or UPI details, wherever you would like to receive your funds. Upon submission of that form, your payout will automatically be scheduled for our next disbursement cycle.
 
@@ -24,9 +24,7 @@ Read the payouts policy for more details.
 
 ## **What if I missed my deadline?**
 
-Oversight reserves the right to absorb your funds and NOT trigger any disbursements at all if you couldn't complete the target within the specified timeline.
-
-**In short, you won't get any portion of your raised money if you couldn't complete the target before allowed deadline.**
+You can still withdraw the total funds you collected on the project until the deadline is crossed, even if you didn't hit your funding target. However, the fees charged on your payout, in case you didn't achieve the target but have crossed the deadline, is different \(generally higher\).
 
 Read more about disbursements in our payouts policy.
 

@@ -8,24 +8,18 @@ description: >-
 
 ## Deadlines For Projects
 
-Maximum 6 months, from the date of publishing of the project, is the default deadline of every project for every Rs. 1,00,000 compartment of total target.
-
-* For targets up to 1,00,000, deadline is 6 months maximum.
-* Similarly, 12 months for targets up to 2,00,000.
-* And so on, until a maximum target value of Rs. 25,00,000.
-
-{% hint style="info" %}
-Since, deadlines are decided upon compartments rounded of to Rs. 1,00,000, **deadline for a hypothetical target of Rs. 1,20,000 would also be 12 months.**
-{% endhint %}
+Users can manually select their preferred deadline date when publishing a new project, on which they'd like funding on that project to complete or cease to continue beyond.
 
 {% hint style="danger" %}
 1. Deadlines are not changeable.
-2. You won't get any portion of your raised money if you missed your given deadline.
+2. Fees charges on your payout amount, if you couldn't complete your funding target before the deadline, would be different \(generally higher\) than the default fees charged on every project's payout if you do complete/achieve your funding target before the deadline. Read pricing policy for more details.
 {% endhint %}
+
+{% page-ref page="pricing.md" %}
 
 ## Payout Disbursement For Projects
 
-Once you have finally **hit your funding target and provided that the project has not crossed its funding deadline**, you will get the option of withdrawing your funds from the same project page. Clicking on that option/button will generate a unique payout link, which will open up in the current browser, and will also be sent to your registered mobile and email.
+Once you have finally **hit your funding target OR the project has reached its funding deadline** \(set by you/user whilst publishing the project\), you will get the option of withdrawing your funds from the same project page. Clicking on that option/button will generate a unique payout link, which will open up in the current browser, and will also be sent to your registered mobile and email.
 
 In that link, you can add your bank account or UPI details, wherever you would like to receive your funds. Upon submission of that form, your payout will automatically be scheduled for our next disbursement cycle.
 
@@ -34,7 +28,7 @@ Oversight is not responsible for any incorrect account details filled by users. 
 {% endhint %}
 
 {% hint style="info" %}
-It is the duty of the user to keep logging into their Oversight account and ensure whether the project has raised sufficient funds to fulfill its target or not. Oversight is not responsible for informing the user personally for the same. 
+It is the duty of the user to keep logging into their Oversight account and ensure whether the project has raised sufficient funds to fulfill its target or not. Although, Oversight will also send an email once any project hits its funding target.
 {% endhint %}
 
 {% hint style="warning" %}

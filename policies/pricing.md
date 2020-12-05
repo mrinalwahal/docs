@@ -44,3 +44,7 @@ We take mathematical floor values on all amounts including platform fees and tax
 
 Fees for **empowerment donations through monthly subscriptions** for every user who has equal to, or more than, 1 active subscription on their account, is currently fixed at **20% of the total donation amount** \(+ GST as applicable\) for that donation cycle.
 
+## Resources \(Or Digital Downloads\)
+
+Fees charged on every digital download, including Resources on Oversight, is currently fixed at **20% of the total price per download fixed by the user for that Resource** \(+ GST as applicable\).
+

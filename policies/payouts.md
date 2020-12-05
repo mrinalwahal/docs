@@ -43,9 +43,11 @@ How long it takes for funds to be deposited in your account also depends on your
 
 Your bank account will be the preferred option for initiating payouts to, since VPA \(UPI\) accounts have an upper limit on transactions as per governmental regulations. However, if the total payout falls within the permitted transaction limit specified by the Government of India, or Reserve Bank of India \(RBI\), then VPA account should not cause any problems.
 
-## Payout Disbursement For Empowerments <a id="empowerments"></a>
+## Payout Disbursement For Empowerments & Resources \(Or Digital Downloads\) <a id="empowerments"></a>
 
-Total payout equal to the complete sum of all subscriptions amount charged for a particular month's cycle are disbursed at the end of the month, after deducting the aforementioned fees.
+Total payout equal to the complete sum of all subscriptions amount charged for a particular month's cycle are disbursed at the end of the month, after deducting the pre-decided platform fees.
+
+Same method is followed for Resources \(or digital downloads\), i.e. total payout equal to the complete sum of all purchases/downloads for all Resources for a particular month's cycle are disbursed at the end of the month, after deducting the pre-decided platform fees.
 
 {% hint style="warning" %}
 In order for empowerments to work, your Funding Account \(UPI\) must be updated in your account settings, otherwise we will not be able to disburse your collected funds into your account.

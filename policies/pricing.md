@@ -46,5 +46,5 @@ Fees for **empowerment donations through monthly subscriptions** for every user 
 
 ## Resources \(Or Digital Downloads\)
 
-Fees charged on every digital download, including Resources on Oversight, is currently fixed at **20% of the total price per download fixed by the user for that Resource** \(+ GST as applicable\).
+Fees charged on every digital download, including Resources on Oversight, is currently fixed at **10% of the total price per download fixed by the user for that Resource** \(+ GST as applicable\).
 

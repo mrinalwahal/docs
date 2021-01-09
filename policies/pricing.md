@@ -8,7 +8,7 @@ description: >-
 
 ## Payment on Lectures/Events
 
-Oversight will charge **15% as platform fees** \(+ GST as applicable\) from the author \(user\) of the published lecture/event upon hitting the registration deadline of the particular lecture/event. This fees will automatically be deducted from the final payout all payments collected on that lecture/event, scheduled for disbursement. In order to understand how and when to schedule payouts, please read the payouts documentation.
+Oversight will charge **12% as platform fees** \(+ GST as applicable\) from the author \(user\) of the published lecture/event upon hitting the registration deadline of the particular lecture/event. This fees will automatically be deducted from the final payout all payments collected on that lecture/event, scheduled for disbursement. In order to understand how and when to schedule payouts, please read the payouts documentation.
 
 {% page-ref page="payouts.md" %}
 

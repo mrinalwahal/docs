@@ -26,7 +26,7 @@ Oversight will charge **15% as platform fees** \(+ GST as applicable\) from the 
 
 ## Pricing for Credits
 
-Each credit is currently charged at **INR \(Rs.\) 20** \(+ GST as applicable\). In order to understand what are credits, how to purchase them and where can they be used, please read the credits documentation.
+Each credit is currently charged at **INR \(Rs.\) 10** \(+ GST as applicable\). In order to understand what are credits, how to purchase them and where can they be used, please read the credits documentation.
 
 {% page-ref page="../resources/credits.md" %}
 
@@ -42,7 +42,7 @@ We take mathematical floor values on all amounts including platform fees and tax
 
 ## Empowerments
 
-Fees for **empowerment donations through monthly subscriptions** for every user who has equal to, or more than, 1 active subscription on their account, is currently fixed at **20% of the total donation amount** \(+ GST as applicable\) for that donation cycle.
+Fees for **empowerment donations through monthly subscriptions** for every user who has equal to, or more than, 1 active subscription on their account, is currently fixed at **15% of the total donation amount** \(+ GST as applicable\) for that donation cycle.
 
 ## Resources \(Or Digital Downloads\)
 

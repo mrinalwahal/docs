@@ -6,16 +6,25 @@ description: >-
 
 # Payouts
 
-## Deadlines For Projects
+## Payout Disbursement For Every Other Entity Except Projects  <a id="empowerments"></a>
 
-Users can manually select their preferred deadline date when publishing a new project, on which they'd like funding on that project to complete or cease to continue beyond.
+Users can withdraw their total collected wallet balance anytime they wish, if they have a minimum balance of Rs. 1,000 \(INR\) in their wallets. As soon as they wthdraw the balance, a payout is automatically initiated.
 
-{% hint style="danger" %}
-1. Deadlines are not changeable.
-2. Fees charges on your payout amount, if you couldn't complete your funding target before the deadline, would be different \(generally higher\) than the default fees charged on every project's payout if you do complete/achieve your funding target before the deadline. Read pricing policy for more details.
+The amount is disbursed in the funding \(UPI\) account saved in their wallet. Users can update this account in the "wallet settings" page inside their Oversight account.
+
+Users can also track the status of their payout settlements from the "wallet settings" page in their Oversight profile.
+
+{% hint style="info" %}
+If total withdrawal amount is above Rs. 45,000, then we issue multiple settlements in batches. This is due to Govt. of India's upper limit on UPI transactions.
 {% endhint %}
 
-{% page-ref page="pricing.md" %}
+{% hint style="warning" %}
+In order for payouts to work, your Funding Account \(UPI\) must be updated in your account settings, otherwise we will not be able to disburse your collected funds into your account.
+{% endhint %}
+
+{% hint style="danger" %}
+Oversight is also not responsible for any incorrect UPI account details saved by the any user. If you \(or any user\) saved incorrect UPI details and all the user's funds got disbursed into that account, Oversight cannot be held liable and would also not be responsible for recovering the funds. Therefore, please be very careful while saving your UPI details in your account settings.
+{% endhint %}
 
 ## Payout Disbursement For Projects
 
@@ -39,23 +48,16 @@ How long it takes for funds to be deposited in your account also depends on your
 **Disclaimer:** Oversight only supports sponsorship for projects published by **Indian residents**, therefore, if you have mistakenly been allowed to raise funds for your project despite not being an Indian resident/citizen \(unless Oversight has issued announcements for international operations\), Oversight is not responsible for disbursing your funds, since it goes against our policies. **You have been warned.**
 {% endhint %}
 
-## Preferred Account
+## Deadlines For Projects
 
-Your bank account will be the preferred option for initiating payouts to, since VPA \(UPI\) accounts have an upper limit on transactions as per governmental regulations. However, if the total payout falls within the permitted transaction limit specified by the Government of India, or Reserve Bank of India \(RBI\), then VPA account should not cause any problems.
-
-## Payout Disbursement For Empowerments & Resources \(Or Digital Downloads\) <a id="empowerments"></a>
-
-Total payout equal to the complete sum of all subscriptions amount charged for a particular month's cycle are disbursed at the end of the month, after deducting the pre-decided platform fees.
-
-Same method is followed for Resources \(or digital downloads\), i.e. total payout equal to the complete sum of all purchases/downloads for all Resources for a particular month's cycle are disbursed at the end of the month, after deducting the pre-decided platform fees.
-
-{% hint style="warning" %}
-In order for empowerments to work, your Funding Account \(UPI\) must be updated in your account settings, otherwise we will not be able to disburse your collected funds into your account.
-{% endhint %}
+Users can manually select their preferred deadline date when publishing a new project, on which they'd like funding on that project to complete or cease to continue beyond.
 
 {% hint style="danger" %}
-Oversight is also not responsible for any incorrect UPI account details saved by the any user. If you \(or any user\) saved incorrect UPI details and all the user's funds got disbursed into that account, Oversight cannot be held liable and would also not be responsible for recovering the funds. Therefore, please be very careful while saving your UPI details in your account settings.
+1. Deadlines are not changeable.
+2. Fees charges on your payout amount, if you couldn't complete your funding target before the deadline, would be different \(generally higher\) than the default fees charged on every project's payout if you do complete/achieve your funding target before the deadline. Read pricing policy for more details.
 {% endhint %}
+
+{% page-ref page="pricing.md" %}
 
 ## Halting Disbursements
 
@@ -63,5 +65,5 @@ Oversight regularly updates it's policy on what kind of projects, or projects pe
 
 However, Oversight reserves the right to un-publish or delete any project from its platform if it seems problematic to Oversight. These could be projects pertaining to Weapons Engineering, or dangerous neuro-scientific experimentation, amongst other reasons. 
 
-Beyond that, Oversight also reserves the right to block or permanently halt disbursements i.e. decide against disbursing collected/raised funds by any user/author on any of their projects, for reasons pertaining to errors in documentation or records maintained that of the user or their projects. The easiest way to negotiate the release of funds with Oversight in such a scenario is to comply with any/every recovery method that Oversight describes to users in that case.
+Beyond that, Oversight also reserves the right to block or permanently halt disbursements/settlements, for reasons pertaining to errors in documentation or records maintained that of the user or their projects. The easiest way to negotiate the release of funds with Oversight in such a scenario is to comply with any/every recovery method that Oversight describes to users in that case.
 

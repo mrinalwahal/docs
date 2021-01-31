@@ -8,19 +8,13 @@ description: >-
 
 ## Payment on Lectures/Events
 
-Oversight will charge **12% as platform fees** \(+ GST as applicable\) from the author \(user\) of the published lecture/event upon hitting the registration deadline of the particular lecture/event. This fees will automatically be deducted from the final payout all payments collected on that lecture/event, scheduled for disbursement. In order to understand how and when to schedule payouts, please read the payouts documentation.
+Oversight will charge **10% as platform fees** \(+ GST as applicable\) from the author \(user\) of the published lecture/event upon hitting the registration deadline of the particular lecture/event. This fees will automatically be deducted from the final payout all payments collected on that lecture/event, scheduled for disbursement. In order to understand how and when to schedule payouts, please read the payouts documentation.
 
 {% page-ref page="payouts.md" %}
 
 ## Crowdfunding on Projects
 
-Oversight will charge **9% as platform fees** \(+ GST as applicable\) from the author \(user\) of the project upon successfully raising sufficient funds required to hit their set funding target, **if the funding deadline date set on the project by the user hasn't reached/crossed**. However, if the deadline has crossed, the fees charged on total collected amount before disbursement/payout is **45% as platform fees** \(+ GST as applicable\). This fees will automatically be deducted from the final payout all funds, raised on that project, scheduled for disbursement. In order to understand how and when to schedule payouts, please read the payouts documentation.
-
-{% page-ref page="payouts.md" %}
-
-## Crowdfunding on Sessions
-
-Oversight will charge **15% as platform fees** \(+ GST as applicable\) from the author \(user\) of the session upon successfully raising sufficient funds required to hit their set funding target. This fees will automatically be deducted from the final payout all funds, raised on that session, scheduled for disbursement. In order to understand how and when to schedule payouts, please read the payouts documentation.
+Oversight will charge **10% as platform fees** \(+ GST as applicable\) from the author \(user\) of the project upon successfully raising sufficient funds required to hit their set funding target, **if the funding deadline date set on the project by the user hasn't reached/crossed**. However, if the deadline has crossed, the fees charged on total collected amount before disbursement/payout is **45% as platform fees** \(+ GST as applicable\). This fees will automatically be deducted from the final payout all funds, raised on that project, scheduled for disbursement. In order to understand how and when to schedule payouts, please read the payouts documentation.
 
 {% page-ref page="payouts.md" %}
 
@@ -42,7 +36,7 @@ We take mathematical floor values on all amounts including platform fees and tax
 
 ## Empowerments
 
-Fees for **empowerment donations through monthly subscriptions** for every user who has equal to, or more than, 1 active subscription on their account, is currently fixed at **15% of the total donation amount** \(+ GST as applicable\) for that donation cycle.
+Fees for **empowerment donations through monthly subscriptions** for every user who has equal to, or more than, 1 active subscription on their account, is currently fixed at **10% of the total donation amount** \(+ GST as applicable\) for that donation cycle.
 
 ## Resources \(Or Digital Downloads\)
 

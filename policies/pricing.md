@@ -36,7 +36,7 @@ We take mathematical floor values on all amounts including platform fees and tax
 
 ## Empowerments
 
-Fees for **empowerment donations through monthly subscriptions** for every user who has equal to, or more than, 1 active subscription on their account, is currently fixed at **10% of the total donation amount** \(+ GST as applicable\) for that donation cycle.
+Fees for **both, one-time empowerments as well as plan based monthly subscription empowerment**, is currently fixed at **10% of the total donation amount** \(+ GST as applicable\).
 
 ## Resources \(Or Digital Downloads\)
 

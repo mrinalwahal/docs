@@ -4,35 +4,21 @@ description: Frequently Asked Questions
 
 # FAQ
 
-## When will I get my money?
+## How can I withdraw my earned funds?
 
-Once you have finally **hit your funding target OR the project has crossed its funding deadline**, you will get the option of withdrawing your funds from the same project page. Clicking on that option/button will generate a unique payout link, which will open up in the current browser, and will also be sent to your registered mobile and email.
+Simply go to your "wallet settings" from the header, and click on "withdraw" button. It will initiate a payout to your saved funding account \(UPI\) ID in the same wallet settings \(which you can update anytime you want as well\).
 
-In that link, you can add your bank account or UPI details, wherever you would like to receive your funds. Upon submission of that form, your payout will automatically be scheduled for our next disbursement cycle.
+And you can track your issued settlements in the "settlements" table just below your wallet settings.
 
 You can read about our payouts policy in detail.
 
 {% page-ref page="policies/payouts.md" %}
 
-## I've reached the target. How long until I receive my funds?
+## I've reached the funding target on project crowd-funding. How long until I receive my funds?
 
 Congratulations on hitting your target! If you have already scheduled the payout from the project page, then it can take up to 3-5 working days for the funds to arrive in your account, provided there are no national/bank holidays and the payment gateway is not experiencing any problems. 
 
 Read the payouts policy for more details.
 
 {% page-ref page="policies/payouts.md" %}
-
-## **What if I missed my deadline?**
-
-You can still withdraw the total funds you collected on the project until the deadline is crossed, even if you didn't hit your funding target. However, the fees charged on your payout, in case you didn't achieve the target but have crossed the deadline, is different \(generally higher\).
-
-Read more about disbursements in our payouts policy.
-
-{% page-ref page="policies/payouts.md" %}
-
-## How can I ensure my donations are being used responsibly by the authors?
-
-Users have the option of publishing regular progress reports on their projects clearly stating how far have they come in their projects and how much progress they have made. You can read these reports for by navigating to **reports** section in the sidebar that shows on every project page. Frequency of publishing these reports is solely depended on the user. 
-
-Some users also attach external links containing their project's latest data or images in the **repository** field of their projects, which can be accessed by clicking on the **data-repository button** on project's main content page.
 

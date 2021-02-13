@@ -4,6 +4,10 @@ description: Frequently Asked Questions
 
 # FAQ
 
+## Why do you need KYC?
+
+You can use all the free features without KYC, including publishing level 0 public posts, as well as make transactions on other authors' profiles for entity, be it empowerments, or payments for lectures and resources, however, to start accepting payments on your own profile you need to do the KYC due to govt regulations.
+
 ## How can I withdraw my earned funds?
 
 Simply go to your "wallet settings" from the header, and click on "withdraw" button. It will initiate a payout to your saved funding account \(UPI\) ID in the same wallet settings \(which you can update anytime you want as well\).

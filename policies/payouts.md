@@ -6,7 +6,7 @@ description: >-
 
 # Payouts
 
-## Payout Disbursement For Every Other Entity Except Projects  <a id="empowerments"></a>
+## Payout Disbursement For Every Entity <a id="empowerments"></a>
 
 Users can withdraw their total collected wallet balance anytime they wish, if they have a minimum balance of Rs. 1,000 \(INR\) in their wallets. As soon as they wthdraw the balance, a payout is automatically initiated.
 
@@ -26,15 +26,7 @@ In order for payouts to work, your Funding Account \(UPI\) must be updated in yo
 Oversight is also not responsible for any incorrect UPI account details saved by the any user. If you \(or any user\) saved incorrect UPI details and all the user's funds got disbursed into that account, Oversight cannot be held liable and would also not be responsible for recovering the funds. Therefore, please be very careful while saving your UPI details in your account settings.
 {% endhint %}
 
-## Payout Disbursement For Projects
-
-Once you have finally **hit your funding target OR the project has reached its funding deadline** \(set by you/user whilst publishing the project\), you will get the option of withdrawing your funds from the same project page. Clicking on that option/button will generate a unique payout link, which will open up in the current browser, and will also be sent to your registered mobile and email.
-
-In that link, you can add your bank account or UPI details, wherever you would like to receive your funds. Upon submission of that form, your payout will automatically be scheduled for our next disbursement cycle.
-
-{% hint style="danger" %}
-Oversight is not responsible for any incorrect account details filled by users. Make sure that this can transfer the funds to an incorrect account or may permanently halt/corrupt your payout, and the you \(the user\) may never receive your collected funds. In either case, Oversight doesn't stand responsible for the same.
-{% endhint %}
+## Payout Disclaimers For Projects
 
 {% hint style="info" %}
 It is the duty of the user to keep logging into their Oversight account and ensure whether the project has raised sufficient funds to fulfill its target or not. Although, Oversight will also send an email once any project hits its funding target.
@@ -53,8 +45,7 @@ How long it takes for funds to be deposited in your account also depends on your
 Users can manually select their preferred deadline date when publishing a new project, on which they'd like funding on that project to complete or cease to continue beyond.
 
 {% hint style="danger" %}
-1. Deadlines are not changeable.
-2. Fees charges on your payout amount, if you couldn't complete your funding target before the deadline, would be different \(generally higher\) than the default fees charged on every project's payout if you do complete/achieve your funding target before the deadline. Read pricing policy for more details.
+Deadlines are NOT changeable.
 {% endhint %}
 
 {% page-ref page="pricing.md" %}

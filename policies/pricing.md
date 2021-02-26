@@ -26,9 +26,9 @@ Each credit is currently charged at **INR \(Rs.\) 10** \(+ GST as applicable\). 
 
 ## Empowerments
 
-Fees for **both, one-time empowerments as well as plan based monthly subscription empowerment**, is currently fixed at **10% of the total donation amount** \(+ GST as applicable\).
+Fees for **both, one-time empowerments as well as plan based monthly subscription empowerment**, is currently fixed at **10% of the total donation amount** \(+ GST as applicable\). This fees will automatically be deducted from the final payout all payments collected on that lecture/event, scheduled for disbursement.
 
 ## Resources \(Or Digital Downloads\)
 
-Fees charged on every digital download, including Resources on Oversight, is currently fixed at **10% of the total price per download fixed by the user for that Resource** \(+ GST as applicable\).
+Fees charged on every digital download, including Resources on Oversight, is currently fixed at **10% of the total price per download fixed by the user for that Resource** \(+ GST as applicable\). This fees will automatically be deducted from the final payout all payments collected on that lecture/event, scheduled for disbursement.
 
